@@ -3,5 +3,5 @@ This is a game xD;
 
 Submitted by :
 
-Shreyash Bhoyar
+Shreyash Bhoyar,
 Amartya Deshmukh
